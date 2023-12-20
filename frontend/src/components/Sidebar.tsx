@@ -19,10 +19,10 @@ export default function Sidebar(props: {
     <>
       <div className="sidebar">
         <div className="logo">
-            <AssistantIcon /> GPT-Code UI
+            <AssistantIcon /> AIDA
 
             <div className='github'>
-                <a href='https://github.com/ricklamers/gpt-code-ui'>Open Source - v{import.meta.env.VITE_APP_VERSION}</a>
+                <a href='https://revibots.xyz'>by Emmanuel Eze</a>
             </div>
         </div>
         <div className="settings">
