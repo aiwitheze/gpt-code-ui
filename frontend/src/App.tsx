@@ -41,7 +41,7 @@ function App() {
   let [messages, setMessages] = useState<Array<MessageDict>>(
     Array.from([
       {
-        text: "Hello! I'm a GPT Code assistant. Ask me to do something for you! Pro tip: you can upload a file and I'll be able to use it.",
+        text: "Hello! I'm a Emmanuel Eze, your personal AI Data analyst. You can upload a file and I'll be able to answer your questions or perfom data analysis on it.",
         role: "generator",
         type: "message",
       },
